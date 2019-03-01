@@ -1,10 +1,12 @@
-<p align="center"><a hreh="http://couponvita.com/"><img src="http://couponvita.com/images/logo_dark.png"></a></p>
+<p align="center"><a href="http://couponvita.com/"><img src="http://couponvita.com/images/logo_dark.png"></a></p>
 
 ## About CouponVita
 
 CouponVita is one of the main coupon destinations in India based on Laravel Technology, which helps each one of those passionate online customers in sparing more while shopping. Indeed, we at CouponVita ensure that every one of our clients get selective and the best arrangements and offer for different items at the most sensible rates.
 
 We began off our administration as a little group and bit by bit now we have been fruitful in setting upourselves as a standout amongst the most favored coupon locales in India. With a dedicated group, werender benefits that can improve shopping an ordeal.
+
+## For Demo <a href="http://couponvita.com/">click here</a>
 
 ## About Laravel
 
